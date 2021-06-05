@@ -1,0 +1,14 @@
+nav ul li {
+    font-weight: 700;
+    font-family: "Raleway";
+}
+
+.getHeight {
+    min-height: 60vh;
+}
+
+.logo {
+    height: 7vh;
+    background-color: floralwhite;
+    border-radius: 100px;
+}
